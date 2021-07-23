@@ -1,0 +1,4 @@
+com/masai/loginstart/BuildConfig.java
+ com.masai.loginstart.BuildConfig
+com/masai/loginstart/MainActivity.java
+ com.masai.loginstart.MainActivity
